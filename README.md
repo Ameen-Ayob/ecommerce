@@ -1,1 +1,2 @@
-# ecommerce
+ecommerce
+An online store...
